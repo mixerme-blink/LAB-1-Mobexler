@@ -1,4 +1,4 @@
-# LAB 2 - Mobexler
+# LAB 1 - Mobexler
 
 TP Sécurité Android réalisé avec la machine virtuelle **Mobexler**.
 
